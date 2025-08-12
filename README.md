@@ -1,6 +1,3 @@
-Profession/Role: (e.g., Software Engineer, Data Scientist, Designer)
-Top Skills/Technologies: (e.g., Python, JavaScript, React, ML, DevOps, etc.)
-Favorite Projects: (List any repos or project highlights you'd like featured)
-Bio/About Me: (A short intro or fun facts)
-Social Links: (LinkedIn, Twitter, Blog, Portfolio, etc.)
-Other Highlights: (Certifications, awards, hobbies, or anything you’re proud of!)
+Profession/Role: Software Engineer, Data Scientist
+Top Skills/Technologies:  Python, html,css, ML,java,c++
+
